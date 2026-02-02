@@ -107,7 +107,7 @@ These skills are **environment-agnostic**. Consumers add their own layers:
 - **[claude-assess-decide-do-mega-prompt](https://github.com/dragosroua/claude-assess-decide-do-mega-prompt)** — Full Claude Code integration
 - **[add-framework-cowork-plugin](https://github.com/dragosroua/add-framework-cowork-plugin)** — Claude Cowork plugin
 - **[addTaskManager](https://itunes.apple.com/app/apple-store/id1492487688?mt=8)** — iOS/macOS app implementing ADD
-- **[Assess - Decide - Do hubpage on dragosroua.com](https://addtaskmanager.com)** — all related framework posts from 2009 to 2026
+- **[Assess - Decide - Do hubpage on dragosroua.com](https://dragosroua.com/assess-decide-do-framework/)** — all related framework posts from 2009 to 2026
 
 ## License
 
